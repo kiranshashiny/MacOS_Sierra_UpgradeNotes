@@ -21,8 +21,12 @@ Snap 1
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014628/b7d1cfae-880f-11e6-9d5b-0c69830953a2.png)
 
 
-Snap 2
-<img src="https://cloud.githubusercontent.com/assets/14288989/19014636/f7f41b3c-880f-11e6-90ca-73572e6eb8ac.png" width="48">
+Snap 2 200
+<img src="https://cloud.githubusercontent.com/assets/14288989/19014636/f7f41b3c-880f-11e6-90ca-73572e6eb8ac.png" width="200">
+Snap 2 800
+<img src="https://cloud.githubusercontent.com/assets/14288989/19014636/f7f41b3c-880f-11e6-90ca-73572e6eb8ac.png" width="800">
+Snap 2 1000
+<img src="https://cloud.githubusercontent.com/assets/14288989/19014636/f7f41b3c-880f-11e6-90ca-73572e6eb8ac.png" width="1000">
 
 Snap 3
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014633/e7af42b0-880f-11e6-806e-ff5c17063d64.png)
