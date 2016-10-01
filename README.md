@@ -7,32 +7,29 @@
     I could not stop it - and it would happen the minute I login.
     On further investigation It would happen once I connected the Arduino - and would stop the minute I unplugged the Arduino.
 
-    This URL was the closest I got to reporting my symptoms.
+    This URL was the closest I got to reporting my symptoms and had to reinstall the packages.
 
     The existing CH340 Serial port had to removed first and then newer version had to be installed.
     pkgutil --pkgs  |grep 34 # get the usb package here.
     pkgutil --files <usb_serial>.pkg # list installed files
-
    
-    Later, I had to install newer version of the Arduino as well.
- 
-        - Install the newer version of Arduino 1.6.12
-https://blog.arduino.cc/2016/09/22/ide-1-6-12-released-with-sierra-support-and-more/
-
-        - Install the newer version of CH340 Serial driver.
+    Install the newer version of Arduino 1.6.12
+    https://blog.arduino.cc/2016/09/22/ide-1-6-12-released-with-sierra-support-and-more/
 
 
 Snap
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014628/b7d1cfae-880f-11e6-9d5b-0c69830953a2.png)
 
-Snap
-![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014633/e7af42b0-880f-11e6-806e-ff5c17063d64.png)
 
 Snap
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014636/f7f41b3c-880f-11e6-90ca-73572e6eb8ac.png =100X20)
 
 Snap
+![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014633/e7af42b0-880f-11e6-806e-ff5c17063d64.png)
+
+Snap
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014636/f7f41b3c-880f-11e6-90ca-73572e6eb8ac.png =250x)
+
 Snap
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014642/3637045e-8810-11e6-97c7-c18c9e2517ef.png)
 
