@@ -22,13 +22,13 @@ Snap 1
 
 
 Snap 2
-![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014636/f7f41b3c-880f-11e6-90ca-73572e6eb8ac.png =100X20)
+<img src="https://cloud.githubusercontent.com/assets/14288989/19014636/f7f41b3c-880f-11e6-90ca-73572e6eb8ac.png" width="48">
 
 Snap 3
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014633/e7af42b0-880f-11e6-806e-ff5c17063d64.png)
 
 Snap 4
-![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014636/f7f41b3c-880f-11e6-90ca-73572e6eb8ac.png =250x)
+<img src="https://cloud.githubusercontent.com/assets/14288989/19014636/f7f41b3c-880f-11e6-90ca-73572e6eb8ac.png" width="24">
 
 Snap 5
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014642/3637045e-8810-11e6-97c7-c18c9e2517ef.png)
