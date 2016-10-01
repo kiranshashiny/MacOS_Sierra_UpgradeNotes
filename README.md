@@ -23,10 +23,10 @@ Snap 1
 
 Snap 2 200
 <img src="https://cloud.githubusercontent.com/assets/14288989/19014636/f7f41b3c-880f-11e6-90ca-73572e6eb8ac.png" width="200">
+<br>
 Snap 2 800
 <img src="https://cloud.githubusercontent.com/assets/14288989/19014636/f7f41b3c-880f-11e6-90ca-73572e6eb8ac.png" width="800">
-Snap 2 1000
-<img src="https://cloud.githubusercontent.com/assets/14288989/19014636/f7f41b3c-880f-11e6-90ca-73572e6eb8ac.png" width="1000">
+<br>
 
 Snap 3
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014633/e7af42b0-880f-11e6-806e-ff5c17063d64.png)
