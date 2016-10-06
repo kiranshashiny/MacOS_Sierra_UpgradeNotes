@@ -31,6 +31,11 @@
 
     https://blog.arduino.cc/2016/09/22/ide-1-6-12-released-with-sierra-support-and-more/
 
+6 Oct 2016
+Another location where the driver is installed is :
+http://www.mblock.cc/posts/run-makeblock-ch340-ch341-on-mac-os-sierra
+
+
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/19014633/e7af42b0-880f-11e6-806e-ff5c17063d64.png)
 
 ## Sametime had to be reinstalled
@@ -38,3 +43,4 @@
 
 ## Mobility Client had to be reinstalled
     From same location as above.
+
